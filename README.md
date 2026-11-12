@@ -177,11 +177,11 @@ Suggestions, corrections, and improvements are welcome.
 
 ## Author
 
-**Chinedu Okeke**
+**ERIC VICTORY**
 
-Software Engineer | AI/ML Engineer | Open Source Contributor
+ AI/ML Engineer
 
-- GitHub: [@chiscookeke11](https://github.com/chiscookeke11)
+- GitHub: [@EricVictory01](https://github.com/EricVictory01)
 
 ---
 
